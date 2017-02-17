@@ -1,0 +1,3 @@
+<p style="text-transform:capitalize;">capitalized text (also known as title case)</p>
+<p style="text-transform:uppercase;">uppercase text</p>
+<p style="text-transform:lowercase;">TALK QUIETLY</p>
